@@ -2,9 +2,18 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stefmolin/binder-environments/1st_edition?urlpath=git-pull?repo=https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stefmolin/Hands-On-Data-Analysis-with-Pandas/blob/master) [![Nbviewer](https://img.shields.io/badge/render-nbviewer-lightgrey?logo=jupyter)](https://nbviewer.jupyter.org/github/stefmolin/Hands-On-Data-Analysis-with-Pandas/tree/master/) [![Purchase the book on Amazon](https://img.shields.io/badge/Amazon-purchase-orange?logo=amazon&logoColor=orange)](https://www.amazon.com/Hands-Data-Analysis-Pandas-visualization/dp/1789615321) 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/hands-data-analysis-pandas">  <img src="_img/cover.PNG" alt="Hands-On Data Analysis with Pandas" height="256px" align="right"></a>
 
+
 This is the code repository for my book [Hands-On Data Analysis with Pandas](https://www.packtpub.com/big-data-and-business-intelligence/hands-data-analysis-pandas), published by Packt on July 26, 2019.
 
 *The [1st_edition tag](https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas/tree/1st_edition) contains all materials as they were at time of publishing the first edition.*
+
+---
+
+**IMPORTANT NOTE** (April 29, 2021): 
+
+This is the code repository for the **first edition**. For the **second edition**, use [this repository](https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition) instead.
+
+---
 
 ## Book Description
 Data analysis has become an essential skill in a variety of domains where knowing how to work with data and extract insights can generate significant value.
